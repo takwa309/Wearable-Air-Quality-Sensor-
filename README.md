@@ -30,5 +30,7 @@ Un pendentif compact qui surveille en temps réel la qualité de l’air et aler
 Assurer la **sécurité des travailleurs** en surveillant la qualité de l’air et en donnant un retour visuel simple et efficace.
 
 ---
+##  Installation / Usage
+Téléchargez le dossier, puis ouvrez-le dans EasyEDA ; vous y trouverez le schéma électronique ainsi que le PCB.
 
 
