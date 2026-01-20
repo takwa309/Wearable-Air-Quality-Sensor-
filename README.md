@@ -31,6 +31,7 @@ Assurer la **sécurité des travailleurs** en surveillant la qualité de l’air
 
 ---
 ##  Installation / Usage
-Téléchargez le dossier, puis ouvrez-le dans EasyEDA ; vous y trouverez le schéma électronique ainsi que le PCB.
+Téléchargez le dossier, puis ouvrez-le dans EasyEDA , vous y trouverez le schéma électronique ainsi que le PCB.
+
 
 
